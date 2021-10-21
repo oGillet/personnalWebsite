@@ -3,7 +3,7 @@ title: " "
 output: html_document
 ---
 
-## LICENCE - SIG
+## Licence - SIG
 
 * Tutorial - Initiation aux SIG (QGIS) <a href="docs/LICENCE_INTRODUCTION_SIG.pdf" download>Cliquez ici pour le télécharger</a>
  
@@ -11,7 +11,7 @@ output: html_document
 
 * Tutorial - Corine Land Cover (CLC) <a href="docs/LICENCE_CLC.pdf" download>Cliquez ici pour le télécharger</a>
 
-## LICENCE - Télédétection
+## Licence - Télédétection
 * https://ogillet.github.io/L3_REMOTE_SENSING/
 
 ## Master - Python - QGIS
