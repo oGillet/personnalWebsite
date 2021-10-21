@@ -1,0 +1,24 @@
+---
+title: " "
+output: html_document
+---
+
+## LICENCE - SIG
+
+* Tutorial - Initiation aux SIG (QGIS) <a href="docs/LICENCE_INTRODUCTION_SIG.pdf" download>Cliquez ici pour le télécharger</a>
+ 
+* Tutorial - Météosat Seconde Génération (MSG-4) <a href="docs/LICENCE_MSG.pdf" download>Cliquez ici pour le télécharger</a>
+
+* Tutorial - Corine Land Cover (CLC) <a href="docs/LICENCE_CLC.pdf" download>Cliquez ici pour le télécharger</a>
+
+## LICENCE - Télédétection
+* https://ogillet.github.io/L3_REMOTE_SENSING/
+
+## Master - Python - QGIS
+* https://ogillet.github.io/MASTER_GEOMATIQUE/
+
+## Formation R
+* https://ogillet.github.io/R_FORMATION_DEBUTANT/
+
+## Autres 
+* https://ogillet.github.io/svg_summary_map/

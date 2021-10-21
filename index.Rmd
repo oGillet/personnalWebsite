@@ -1,0 +1,21 @@
+---
+title: " "
+output: html_document
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+## About me
+ 
+I'm a PDH student in agent-based model and massivve evacuation at UMR 6266 IDEES based in Rouen, Normandy. Prior to begining my PHD, I worked as Project Engineer at the same laboratory. I hold a Master in remote sensing at Renne University. The main objective of my  research is to provide, by the development of a calibrated and validated model, some pertinent informations for the stakeholder for define their evacuation strategy.
+ 
+## Contact
+
+> UMR 6266 IDEES  
+> Université de Rouen Bâtiment 7  
+> 17 rue Lavoisier  
+> 76130 MONT SAINT AIGNAN CEDEX  
+> Email: gillet.olivier@outlook.fr  

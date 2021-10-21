@@ -1,0 +1,24 @@
+name: "personnalWebsite"
+navbar:
+  title: "Olivier Gillet"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "ESCAPE-VOLCANO"
+      href: guadeloupe.html
+    - text: "Academic supports"
+      href: academic.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<gillet.olivier@outlook.fr>
+    - icon: fa-github fa-lg
+      href: http://github.com/ogillet/
+output_dir: "."
+output: 
+  html_document:
+    theme: simplex
+    toc: true
+    toc_float: true
+    
+  
+# “bootstrap”, “cerulean”, “cosmo”, “darkly”, “flatly”, “journal”, “lumen”, “paper”, “readable”, “sandstone”, “simplex”, “spacelab”, “united”, “yeti”
