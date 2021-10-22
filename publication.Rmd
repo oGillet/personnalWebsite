@@ -1,0 +1,18 @@
+---
+title: " "
+output: html_document
+---
+
+* Françoise Lucchini, Olivier Gillet, Bernard Elissalde, Lény Grassot, Julien Baudry et Armelle Couillet, « Objets connectés et mobilité urbaine : visualiser les déplacements des usagers de Twitter avec des graphes dynamiques », Mappemonde [En ligne], 128 | 2020, mis en ligne le 01 juillet 2020, consulté le 22 octobre 2021. URL : http://journals.openedition.org/mappemonde/4297; DOI : https://doi.org/10.4000/mappemonde.4297 [Articles]
+
+* Couillet A., Rougier H., Todisco D., Colange C., Gillet O., Crevecoeur I., 2019 : Géovisualisation et analyse spatiale intra-site de la roche a pierrot, saint-césaire (charente maritime) des outils taphonomiques pour mieux caractériser une séquence clé du paléolithique français, ThéoQuant, 06 au 09 février 2018, Université de Franche-Comté, Besançon (FR) [Communication Orale]
+
+* Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2018 : Traduire la ville éphémère en graphes dynamiques : Un outil pour simuler la mobilité parisienne des usagers de Twitter, RFTM, 06 au 08 juin 2018, École nationale des travaux publics de l'État, Lyon (FR) [Communication Orale]
+
+* Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2018 : La mobilité parisienne des usagers de Twitter, CIST, 22 au 23 mars 2018, Rouen Normandie University, Rouen (FR) [Communication Orale]
+
+* Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2017 : Des graphes dynamiques pour décrypter la mobilité des usagers de Twitter, Spatial Analysis and GEOmatics, 6 au 9 novembre 2017, Rouen Normandie University, Rouen (FR) [Communication Orale]
+
+* Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2017 : Social networks, events and cities, The European Colloquium on Theoretical and Quantitative Geography, 7 au 11 septembre 2017, University of Leeds, York (UK) [Communication Orale]
+
+* Foissard X., Gillet O., Nabucet J., Quénol H., 2017 : Premières analyses sur l'apport de la télédétection 2D et 3D dans l'étude de l'îlot de fraîcheur d'un parc urbain rennais, Atelier TEMU du 16 au 17 janvier 2017, Météo-France CNRM, Toulouse [Communication Orale]
