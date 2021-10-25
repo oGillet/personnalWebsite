@@ -22,3 +22,4 @@ output: html_document
 
 ## Autres 
 * https://ogillet.github.io/svg_summary_map/
+* https://ogillet.github.io/svg_crisis
