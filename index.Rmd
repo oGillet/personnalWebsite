@@ -12,10 +12,6 @@ text-align: justify}
  
 I'm a PDH student in agent-based model and massivve evacuation at UMR 6266 IDEES based in Rouen, Normandy. Prior to begining my PHD, I worked as Project Engineer at the same laboratory. I hold a Master in remote sensing at Renne University. The main objective of my  research is to provide, by the development of a calibrated and validated model, some pertinent informations for the stakeholder for define their evacuation strategy.
 
-<center>
-![Stromboli](images/stromboli.gif)
-</center> 
-
 ## Contact
 
 > UMR 6266 IDEES  
