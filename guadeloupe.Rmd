@@ -10,7 +10,7 @@ text-align: justify}
 
 ## **Contexte local**
 
-L’OVSG-IPGP est depuis mai 2018 en état de vigilance renforcée suite à une modification du système hydrothermal de la Soufrière. Toute éruption présenterait à différentes échelles d'intensité, d’espace et de temps des risques pour les populations dont près de 80 000 résident à moins de 15 km du volcan.
+L’OVSG-IPGP est depuis mai 2018 en état de vigilance renforcée suite à une modification du système hydrothermal de la Soufrière. Toute éruption présenterait à différentes échelles d'intensité, d’espace et de temps des risques pour les populations dont près de 80 000 résidents à moins de 15 km du volcan.
 
 Malgré la présence de volcans actifs aux Antilles, la France, et fort heureusement, manque d'un retour d'expérience pour la gestion des crises éruptives de ce type de volcanisme.  
 
@@ -34,7 +34,7 @@ Diverses missions ont permises de récolter  les données nécessaires à la con
 
 ## **Simulations et discussion**
 
-Il est important pour les gestionnaires d'explorer la totalité des scénarios "what if" (comportement individuel, divers aléas, ...) et les scénarios "how to” (évacuation polyphasée, itinéraire d'évacuation, ...). Pour ce terrain d'étude plusieurs scénarios ont été élaborés afin d'évaluer les conséquences des multiples phénomènes éruptifs éventuels de la Soufrière ou les impacts des divers plans d'évacuation et des actions locales. Comme mentionné précédemment, l’évacuation des populations est la seule parade efficace face au risque volcanique. Le type d’évacuation sera en fonction de la crise éruptive, elle peut être totale, partielle, synchrone ou polyphasée. Une évacuation, même partielle, requiert un plan définit à l’avance. L'objectif principal du système est d'expérimenter les évacuations massives, quelles que soient leurs types, par la simulation informatique. Le logiciel *OpenMole* via des méthodes d'exploration massive permettra de générer des informations utiles et pertinentes aux gestionnaires comme la pertinence de tel ou tel point de rassemblement, le temps d'évacuation moyen pour les ménages véhiculés et non véhiculés, le meilleur polyphasage, etc. 
+Il est important pour les gestionnaires d'explorer la totalité des scénarios "what if" (comportement individuel, divers aléas, ...) et les scénarios "how to” (évacuation polyphasée, itinéraire d'évacuation, ...). Pour ce terrain d'étude plusieurs scénarios ont été élaborés afin d'évaluer les conséquences des multiples phénomènes éruptifs éventuels de la Soufrière ou les impacts des divers plans d'évacuation et des actions locales. Comme mentionné précédemment, l’évacuation des populations est la seule parade efficace face au risque volcanique. Le type d’évacuation sera en fonction de la crise éruptive, elle peut être totale, partielle, synchrone ou polyphasée. Une évacuation, même partielle, requiert un plan défini à l’avance. L'objectif principal du système est d'expérimenter les évacuations massives, quelles que soient leurs types, par la simulation informatique. Le logiciel *OpenMole* via des méthodes d'exploration massive permettra de générer des informations utiles et pertinentes aux gestionnaires comme la pertinence de tel ou tel point de rassemblement, le temps d'évacuation moyen pour les ménages véhiculés et non véhiculés, le meilleur polyphasage, etc. 
 
 <center>
 ![le volcan de la Soufrière](images/gama.gif)
