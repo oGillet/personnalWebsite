@@ -8,8 +8,10 @@ navbar:
       href: guadeloupe.html
     - text: "Academic supports"
       href: academic.html
-    - text: "Publications & Conferences"
-      href: publication.html
+    - text: "Others"
+      href: others.html
+    # - text: "Publications & Conferences"
+    #   href: publication.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<gillet.olivier@outlook.fr>
