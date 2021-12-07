@@ -17,6 +17,9 @@ output: html_document
 ## Master - Python - QGIS
 * https://ogillet.github.io/MASTER_GEOMATIQUE/
 
+## Master - R
+* https://ogillet.github.io/MASTER_R/
+
 ## Formation R
 * https://ogillet.github.io/R_FORMATION_DEBUTANT/
 
