@@ -8,8 +8,8 @@ navbar:
       href: guadeloupe.html
     - text: "Academic supports"
       href: academic.html
-    - text: "Others"
-      href: others.html
+    # - text: "Others"
+    #   href: others.html
     # - text: "Publications & Conferences"
     #   href: publication.html
   right: 
