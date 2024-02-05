@@ -13,12 +13,11 @@ lecture***
     Tranouez, P., Rey Coyrehourcq, S., & Komorowski, J.-C. (2023).
     Modeling staged and simultaneous evacuation during a volcanic crisis
     of La Soufrière of Guadeloupe (France).
-    <https://Doi.Org/10.1177/>00375497231209998
+    https://Doi.Org/10.1177/00375497231209998
 
 -    Gillet, O., Daudé, É., Gherardi, M., Leone, F., & Komorowski, J.-C.
     (2023). La Soufrière de Guadeloupe : la population est-elle prête à
-    faire face à une nouvelle crise volcanique ? http:
-    //Journals.Openedition.Org/Echogeo,64
+    faire face à une nouvelle crise volcanique ? https://doi.org/10.4000/ECHOGEO.25521
 
 -   Françoise Lucchini, Olivier Gillet, Bernard Elissalde, Lény Grassot,
     Julien Baudry et Armelle Couillet, « Objets connectés et mobilité
