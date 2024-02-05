@@ -12,7 +12,7 @@ navbar:
     #   href: others.html
     - text: "Soutenance de thèse"
       href: soutenance.html
-    - text: "Publications & Conferences"
+    - text: "Publications & Conférences"
       href: publication.html
   right: 
     - icon: fa-envelope fa-lg
