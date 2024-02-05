@@ -13,7 +13,7 @@
 
 <title>publication.knit</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19.1/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
@@ -65,6 +65,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -85,6 +86,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -142,11 +146,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +183,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +192,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -310,7 +311,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -327,6 +328,12 @@ div.tocify {
 </li>
 <li>
   <a href="academic.html">Academic supports</a>
+</li>
+<li>
+  <a href="soutenance.html">Soutenance de thèse</a>
+</li>
+<li>
+  <a href="publication.html">Publications &amp; Conferences</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -355,14 +362,98 @@ div.tocify {
 </div>
 
 
+<p><strong><em>Publications, communications Articles dans des revues
+avec comité de lecture</em></strong></p>
 <ul>
-<li><p>Françoise Lucchini, Olivier Gillet, Bernard Elissalde, Lény Grassot, Julien Baudry et Armelle Couillet, « Objets connectés et mobilité urbaine : visualiser les déplacements des usagers de Twitter avec des graphes dynamiques », Mappemonde [En ligne], 128 | 2020, mis en ligne le 01 juillet 2020, consulté le 22 octobre 2021. URL : <a href="http://journals.openedition.org/mappemonde/4297" class="uri">http://journals.openedition.org/mappemonde/4297</a>; DOI : <a href="https://doi.org/10.4000/mappemonde.4297" class="uri">https://doi.org/10.4000/mappemonde.4297</a> [Articles]</p></li>
-<li><p>Couillet A., Rougier H., Todisco D., Colange C., Gillet O., Crevecoeur I., 2019 : Géovisualisation et analyse spatiale intra-site de la roche a pierrot, saint-césaire (charente maritime) des outils taphonomiques pour mieux caractériser une séquence clé du paléolithique français, ThéoQuant, 06 au 09 février 2018, Université de Franche-Comté, Besançon (FR) [Communication Orale]</p></li>
-<li><p>Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2018 : Traduire la ville éphémère en graphes dynamiques : Un outil pour simuler la mobilité parisienne des usagers de Twitter, RFTM, 06 au 08 juin 2018, École nationale des travaux publics de l’État, Lyon (FR) [Communication Orale]</p></li>
-<li><p>Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2018 : La mobilité parisienne des usagers de Twitter, CIST, 22 au 23 mars 2018, Rouen Normandie University, Rouen (FR) [Communication Orale]</p></li>
-<li><p>Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2017 : Des graphes dynamiques pour décrypter la mobilité des usagers de Twitter, Spatial Analysis and GEOmatics, 6 au 9 novembre 2017, Rouen Normandie University, Rouen (FR) [Communication Orale]</p></li>
-<li><p>Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2017 : Social networks, events and cities, The European Colloquium on Theoretical and Quantitative Geography, 7 au 11 septembre 2017, University of Leeds, York (UK) [Communication Orale]</p></li>
-<li><p>Foissard X., Gillet O., Nabucet J., Quénol H., 2017 : Premières analyses sur l’apport de la télédétection 2D et 3D dans l’étude de l’îlot de fraîcheur d’un parc urbain rennais, Atelier TEMU du 16 au 17 janvier 2017, Météo-France CNRM, Toulouse [Communication Orale]</p></li>
+<li><p>Gillet, O., Daudé, É., Saval, A., Caron, C., Taillandier, P.,
+Tranouez, P., Rey Coyrehourcq, S., &amp; Komorowski, J.-C. (2023).
+Modeling staged and simultaneous evacuation during a volcanic crisis of
+La Soufrière of Guadeloupe (France). <a href="https://Doi.Org/10.1177/"
+class="uri">https://Doi.Org/10.1177/</a>00375497231209998</p></li>
+<li><p>Gillet, O., Daudé, É., Gherardi, M., Leone, F., &amp; Komorowski,
+J.-C. (2023). La Soufrière de Guadeloupe : la population est-elle prête
+à faire face à une nouvelle crise volcanique ? http:
+//Journals.Openedition.Org/Echogeo,64</p></li>
+<li><p>Françoise Lucchini, Olivier Gillet, Bernard Elissalde, Lény
+Grassot, Julien Baudry et Armelle Couillet, « Objets connectés et
+mobilité urbaine : visualiser les déplacements des usagers de Twitter
+avec des graphes dynamiques », Mappemonde [En ligne], 128 | 2020, mis en
+ligne le 01 juillet 2020, consulté le 22 octobre 2021. URL : <a
+href="http://journals.openedition.org/mappemonde/4297"
+class="uri">http://journals.openedition.org/mappemonde/4297</a>; DOI :
+<a href="https://doi.org/10.4000/mappemonde.4297"
+class="uri">https://doi.org/10.4000/mappemonde.4297</a></p></li>
+</ul>
+<p><strong><em>Chapitres d’ouvrage et actes de
+colloques</em></strong></p>
+<ul>
+<li><p>Gillet, O., Daudé, É., Saval, A., Caron, C., Rey-Coyrehourcq, S.,
+Taillandier, P., &amp; Tranouez, P. (2023). ESCAPE - Simulation à base
+d’agents pour l’évacuation des populations lors des situations
+d’urgence. 128–131. <a href="https://doi.org/10.13039/501100001665"
+class="uri">https://doi.org/10.13039/501100001665</a></p></li>
+<li><p>Cebeillac, C., Gillet, O., &amp; Daude, E. (2022). Du recensement
+au bâtiment : génération de populations synthétiques. In A. Tran, E.
+Daude, &amp; T. Catry (Eds.), Télédétection et modélisation spatiale
+(Éditions Q, p. 148). Update Sciences &amp; technologies. https
+://doi.org/10.35690/978-2-7592-3629-9</p></li>
+</ul>
+<p><strong><em>Communications dans des congrès
+scientifiques</em></strong></p>
+<ul>
+<li><p>Gillet, O., Daude, .E, Saval, A. et al., 2023. ESCAPE :
+Simulation à base d’agents pour l’évacuation de populations lors des
+situations d’urgence. JFSMA, 05 au 07 juillet 2023, Université de
+Strasbourg (FR)</p></li>
+<li><p>Gillet O., Daudé E., Komorowski, J-C., 2022. Modeling mass
+evacuation under a volcanic crisis of La Soufrière of Guadeloupe
+(France) : An application of the ESCAPE project, UGI-IGU, 18 au 22
+juillet 2022, Paris (FR)</p></li>
+<li><p>Gillet O., Daudé E., Komorowski, J-C., 2022 : Modélisation d’une
+évacuation préventive et polyphasée de la population basse-terrienne
+lors d’une crise éruptive de la Soufrière de Guadeloupe, Théo Quant, 9
+au 11 février 2022, Besançon (FR)</p></li>
+<li><p>Couillet A., Rougier H., Todisco D., Colange C., Gillet O.,
+Crevecoeur I., 2019 : Géovisualisation et analyse spatiale intra-site de
+la roche a pierrot, saint-césaire (charente maritime) des outils
+taphonomiques pour mieux caractériser une séquence clé du paléolithique
+français, ThéoQuant, 06 au 09 février 2018, Université de Franche-Comté,
+Besançon (FR)</p></li>
+<li><p>Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2018
+: Traduire la ville éphémère en graphes dynamiques : Un outil pour
+simuler la mobilité parisienne des usagers de Twitter, RFTM, 06 au 08
+juin 2018, École nationale des travaux publics de l’État, Lyon
+(FR)</p></li>
+<li><p>Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2018
+: La mobilité parisienne des usagers de Twitter, CIST, 22 au 23 mars
+2018, Rouen Normandie University, Rouen (FR)</p></li>
+<li><p>Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2017
+: Des graphes dynamiques pour décrypter la mobilité des usagers de
+Twitter, Spatial Analysis and GEOmatics, 6 au 9 novembre 2017, Rouen
+Normandie University, Rouen (FR)</p></li>
+<li><p>Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2017
+: Social networks, events and cities, The European Colloquium on
+Theoretical and Quantitative Geography, 7 au 11 septembre 2017,
+University of Leeds, York (UK)</p></li>
+<li><p>Foissard X., Gillet O., Nabucet J., Quénol H., 2017 : Premières
+analyses sur l’apport de la télédétection 2D et 3D dans l’étude de
+l’îlot de fraîcheur d’un parc urbain rennais, Atelier TEMU du 16 au 17
+janvier 2017, Météo-France CNRM, Toulouse (FR)</p></li>
+</ul>
+<p><strong><em>Article dans des revues sans comité de lecture / journaux
+tout public</em></strong></p>
+<ul>
+<li>Daudé É., Cebeillac A., Grancher D., Lavigne F. et Gillet O., 2021.
+Éruption à Saint- Vincent-et-les-Grenadines : gérer une évacuation en
+temps de pandémie. The Conversation.</li>
+</ul>
+<p><strong><em>Poster</em></strong></p>
+<ul>
+<li>Colloque projet Interreg PREST OVSM-IPGP Martinique (Mai 2022) :
+Rencontres scien- tifiques OVSM-IPGP-PREST Volcanisme, sismicité et
+tectonique des Antilles, 13-20 mai 2022, St Pierre, Martinique, (PREST :
+vers la Plateforme Régionale de Surveillance Tel- lurique du Futur,
+IPGP, Observatoire Volcanologique de la Martinique</li>
 </ul>
 
 

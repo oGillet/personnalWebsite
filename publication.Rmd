@@ -1,18 +1,106 @@
 ---
 title: " "
 output: html_document
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
-* Françoise Lucchini, Olivier Gillet, Bernard Elissalde, Lény Grassot, Julien Baudry et Armelle Couillet, « Objets connectés et mobilité urbaine : visualiser les déplacements des usagers de Twitter avec des graphes dynamiques », Mappemonde [En ligne], 128 | 2020, mis en ligne le 01 juillet 2020, consulté le 22 octobre 2021. URL : http://journals.openedition.org/mappemonde/4297; DOI : https://doi.org/10.4000/mappemonde.4297 [Articles]
+***Publications, communications Articles dans des revues avec comité de
+lecture***
 
-* Couillet A., Rougier H., Todisco D., Colange C., Gillet O., Crevecoeur I., 2019 : Géovisualisation et analyse spatiale intra-site de la roche a pierrot, saint-césaire (charente maritime) des outils taphonomiques pour mieux caractériser une séquence clé du paléolithique français, ThéoQuant, 06 au 09 février 2018, Université de Franche-Comté, Besançon (FR) [Communication Orale]
+-   Gillet, O., Daudé, É., Saval, A., Caron, C., Taillandier, P.,
+    Tranouez, P., Rey Coyrehourcq, S., & Komorowski, J.-C. (2023).
+    Modeling staged and simultaneous evacuation during a volcanic crisis
+    of La Soufrière of Guadeloupe (France).
+    <https://Doi.Org/10.1177/>00375497231209998
 
-* Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2018 : Traduire la ville éphémère en graphes dynamiques : Un outil pour simuler la mobilité parisienne des usagers de Twitter, RFTM, 06 au 08 juin 2018, École nationale des travaux publics de l'État, Lyon (FR) [Communication Orale]
+-    Gillet, O., Daudé, É., Gherardi, M., Leone, F., & Komorowski, J.-C.
+    (2023). La Soufrière de Guadeloupe : la population est-elle prête à
+    faire face à une nouvelle crise volcanique ? http:
+    //Journals.Openedition.Org/Echogeo,64
 
-* Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2018 : La mobilité parisienne des usagers de Twitter, CIST, 22 au 23 mars 2018, Rouen Normandie University, Rouen (FR) [Communication Orale]
+-   Françoise Lucchini, Olivier Gillet, Bernard Elissalde, Lény Grassot,
+    Julien Baudry et Armelle Couillet, « Objets connectés et mobilité
+    urbaine : visualiser les déplacements des usagers de Twitter avec
+    des graphes dynamiques », Mappemonde [En ligne], 128 \| 2020, mis en
+    ligne le 01 juillet 2020, consulté le 22 octobre 2021. URL :
+    <http://journals.openedition.org/mappemonde/4297>; DOI :
+    <https://doi.org/10.4000/mappemonde.4297>
 
-* Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2017 : Des graphes dynamiques pour décrypter la mobilité des usagers de Twitter, Spatial Analysis and GEOmatics, 6 au 9 novembre 2017, Rouen Normandie University, Rouen (FR) [Communication Orale]
+***Chapitres d'ouvrage et actes de colloques***
 
-* Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2017 : Social networks, events and cities, The European Colloquium on Theoretical and Quantitative Geography, 7 au 11 septembre 2017, University of Leeds, York (UK) [Communication Orale]
+-   Gillet, O., Daudé, É., Saval, A., Caron, C., Rey-Coyrehourcq, S.,
+    Taillandier, P., & Tranouez, P. (2023). ESCAPE - Simulation à base
+    d'agents pour l'évacuation des populations lors des situations
+    d'urgence. 128--131. https://doi.org/10.13039/501100001665
 
-* Foissard X., Gillet O., Nabucet J., Quénol H., 2017 : Premières analyses sur l'apport de la télédétection 2D et 3D dans l'étude de l'îlot de fraîcheur d'un parc urbain rennais, Atelier TEMU du 16 au 17 janvier 2017, Météo-France CNRM, Toulouse [Communication Orale]
+-   Cebeillac, C., Gillet, O., & Daude, E. (2022). Du recensement au
+    bâtiment : génération de populations synthétiques. In A. Tran, E.
+    Daude, & T. Catry (Eds.), Télédétection et modélisation spatiale
+    (Éditions Q, p. 148). Update Sciences & technologies. https
+    ://doi.org/10.35690/978-2-7592-3629-9
+
+***Communications dans des congrès scientifiques***
+
+-   Gillet, O., Daude, .E, Saval, A. et al., 2023. ESCAPE : Simulation à
+    base d'agents pour l'évacuation de populations lors des situations
+    d'urgence. JFSMA, 05 au 07 juillet 2023, Université de Strasbourg
+    (FR)
+
+-    Gillet O., Daudé E., Komorowski, J-C., 2022. Modeling mass
+    evacuation under a volcanic crisis of La Soufrière of Guadeloupe
+    (France) : An application of the ESCAPE project, UGI-IGU, 18 au 22
+    juillet 2022, Paris (FR)
+
+-   Gillet O., Daudé E., Komorowski, J-C., 2022 : Modélisation d'une
+    évacuation préventive et polyphasée de la population basse-terrienne
+    lors d'une crise éruptive de la Soufrière de Guadeloupe, Théo Quant,
+    9 au 11 février 2022, Besançon (FR)
+
+-   Couillet A., Rougier H., Todisco D., Colange C., Gillet O.,
+    Crevecoeur I., 2019 : Géovisualisation et analyse spatiale
+    intra-site de la roche a pierrot, saint-césaire (charente maritime)
+    des outils taphonomiques pour mieux caractériser une séquence clé du
+    paléolithique français, ThéoQuant, 06 au 09 février 2018, Université
+    de Franche-Comté, Besançon (FR)
+
+-   Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2018 :
+    Traduire la ville éphémère en graphes dynamiques : Un outil pour
+    simuler la mobilité parisienne des usagers de Twitter, RFTM, 06 au
+    08 juin 2018, École nationale des travaux publics de l'État, Lyon
+    (FR)
+
+-   Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2018 :
+    La mobilité parisienne des usagers de Twitter, CIST, 22 au 23 mars
+    2018, Rouen Normandie University, Rouen (FR)
+
+-   Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2017 :
+    Des graphes dynamiques pour décrypter la mobilité des usagers de
+    Twitter, Spatial Analysis and GEOmatics, 6 au 9 novembre 2017, Rouen
+    Normandie University, Rouen (FR)
+
+-   Lucchini F., Gillet O., Elissalde B., Grassot L., Baudry J., 2017 :
+    Social networks, events and cities, The European Colloquium on
+    Theoretical and Quantitative Geography, 7 au 11 septembre 2017,
+    University of Leeds, York (UK)
+
+-   Foissard X., Gillet O., Nabucet J., Quénol H., 2017 : Premières
+    analyses sur l'apport de la télédétection 2D et 3D dans l'étude de
+    l'îlot de fraîcheur d'un parc urbain rennais, Atelier TEMU du 16 au
+    17 janvier 2017, Météo-France CNRM, Toulouse (FR)
+
+***Article dans des revues sans comité de lecture / journaux tout
+public***
+
+-   Daudé É., Cebeillac A., Grancher D., Lavigne F. et Gillet O., 2021.
+    Éruption à Saint- Vincent-et-les-Grenadines : gérer une évacuation
+    en temps de pandémie. The Conversation.
+
+***Poster***
+
+-   Colloque projet Interreg PREST OVSM-IPGP Martinique (Mai 2022) :
+    Rencontres scien- tifiques OVSM-IPGP-PREST Volcanisme, sismicité et
+    tectonique des Antilles, 13-20 mai 2022, St Pierre, Martinique,
+    (PREST : vers la Plateforme Régionale de Surveillance Tel- lurique
+    du Futur, IPGP, Observatoire Volcanologique de la Martinique

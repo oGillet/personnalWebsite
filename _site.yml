@@ -10,8 +10,10 @@ navbar:
       href: academic.html
     # - text: "Others"
     #   href: others.html
-    # - text: "Publications & Conferences"
-    #   href: publication.html
+    - text: "Soutenance de thèse"
+      href: soutenance.html
+    - text: "Publications & Conferences"
+      href: publication.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<gillet.olivier@outlook.fr>
