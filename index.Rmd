@@ -10,7 +10,10 @@ text-align: justify}
 
 ## About me
  
-I'm a PhD student specializing in agent-based modeling and massive evacuation at UMR 6266 IDEES, based in Rouen, Normandy. Before beginning my PhD, I worked as a Project Engineer at the same laboratory. I hold a Master's degree in Remote Sensing from Rennes University.
+I’m a Research Engineer specializing in agent-based modeling, particularly in hazard management and mobility, at UMR 6266 IDEES, based in Rouen, Normandy. I hold  a PhD and a Master's degree in Remote Sensing from Rennes University.
+
+<center>
+![](images/trafic_brest.gif)
 
 ## Contact
 
@@ -19,3 +22,4 @@ I'm a PhD student specializing in agent-based modeling and massive evacuation at
 > 17 rue Lavoisier  
 > 76130 MONT SAINT AIGNAN CEDEX  
 > Email: gillet.olivier@outlook.fr  
+
