@@ -8,8 +8,8 @@ navbar:
       href: guadeloupe.html
     - text: "Ressources académiques"
       href: academic.html
-    # - text: "Others"
-    #   href: others.html
+    - text: "Portfolio"
+      href: others.html
     - text: "Soutenance de thèse"
       href: soutenance.html
     - text: "Publications & Conférences"
@@ -22,7 +22,7 @@ navbar:
 output_dir: "."
 output: 
   html_document:
-    theme: simplex
+    theme: sandstone
     toc: true
     toc_float: true
     
