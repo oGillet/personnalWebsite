@@ -6,15 +6,8 @@ output: html_document
 # **Les mobilités à Déville-les-Rouen**
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-rm(list = ls())
-library(dplyr)
-library(googleway)
 library(leaflet)
 library(sf)
-library(osmdata)
-library(ggplot2)
-library(ggspatial)
-library(htmlwidgets)
 
 load("/home/gilleol2/git/personnalWebsite/data/DlR.RData")
 map

@@ -19,6 +19,7 @@ output: html_document
 
 ## Master - R
 * https://ogillet.github.io/MASTER_R/
+* https://ogillet.quarto.pub/master_1_r/
 
 ## Formation R
 * https://ogillet.github.io/R_FORMATION_DEBUTANT/
