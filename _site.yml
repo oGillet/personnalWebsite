@@ -22,7 +22,7 @@ navbar:
 output_dir: "."
 output: 
   html_document:
-    theme: sandstone
+    theme: flatly
     toc: true
     toc_float: true
     
