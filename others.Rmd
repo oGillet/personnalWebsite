@@ -3,13 +3,16 @@ title: " "
 output: html_document
 ---
 
+# **Accidents corporels de la circulation en Guadeloupe (2015-2019)**
+![](images/accidents.gif)
+
 # **Les mobilités à Déville-les-Rouen**
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(leaflet)
 library(sf)
 
-load("/home/gilleol2/git/personnalWebsite/data/DlR.RData")
+load("data/DlR.RData")
 map
 ```
 
