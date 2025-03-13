@@ -10,7 +10,7 @@ text-align: justify}
 
 ## About me
  
-I’m a Research Engineer specializing in agent-based modeling, particularly in hazard management and mobility, at UMR 6266 IDEES, based in Rouen, Normandy. I hold  a PhD and a Master's degree in Remote Sensing from Rennes University.
+Research engineer with 8 years of experience in multi-agent modeling and risk management, expert in data visualization and spatial analysis. Key achievements include supporting multiple research projects with technical solutions ranging from computer programming to spatial data analysis, and successfully completing a doctoral thesis on population evacuation modeling during eruptions of La Soufrière de Guadeloupe. 
 
 ## Contact
 
