@@ -4,7 +4,7 @@ output: html_document
 ---
 # **Modélisation et simulation des mobilités dans Brest Métropole**
 
-Il s'agit d'une première utilisation, des résultats non vérifiés, du pipeline (https://lnkd.in/ezN6eyHM) développé par Sébastien Hörl.
+Il s'agit d'une première utilisation, des résultats non vérifiés, du pipeline développé par Sébastien Hörl (https://eqasim.org/).
 
 ![](images/animation.gif)
 
