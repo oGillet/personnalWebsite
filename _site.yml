@@ -8,7 +8,7 @@ navbar:
       href: guadeloupe.html
     - text: "Ressources académiques"
       href: academic.html
-    - text: "Portfolio"
+    - text: "Portefolio"
       href: others.html
     - text: "Soutenance de thèse"
       href: soutenance.html

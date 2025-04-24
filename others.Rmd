@@ -2,6 +2,11 @@
 title: " "
 output: html_document
 ---
+# **Modélisation et simulation des mobilités dans Brest Métropole**
+
+Il s'agit d'une première utilisation, des résultats non vérifiés, du pipeline (https://lnkd.in/ezN6eyHM) développé par Sébastien Hörl.
+
+![](images/animation.gif)
 
 # **Accidents corporels de la circulation en Guadeloupe (2015-2019)**
 ![](images/accidents.gif)
