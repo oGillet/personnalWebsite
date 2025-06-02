@@ -2,6 +2,21 @@
 title: " "
 output: html_document
 ---
+
+# **Projet de robotique**
+
+Solution logicielle pour automatiser la prise de mesures avec un analyseur à fluorescence X sur des carottes sédimentaires (Python).
+
+![](images/screen_1.png)
+
+![](images/pipeline-removebg.png)
+
+# **Analyse du trafic routier**
+
+Application R-Shiny pour l'analyse du trafic routier dans la Métropole Rouen Normandie.
+
+![](images/app_traffic.png)
+
 # **Modélisation et simulation des mobilités dans Brest Métropole**
 
 Il s'agit d'une première utilisation, des résultats non vérifiés, du pipeline développé par Sébastien Hörl (https://eqasim.org/).
