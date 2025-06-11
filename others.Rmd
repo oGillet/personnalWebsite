@@ -3,6 +3,12 @@ title: " "
 output: html_document
 ---
 
+# **ESCAPE NoCode**
+
+Développement d'une solution logicielle R-Shiny pour modéliser et simuler des évacuations en NoCode avec le système ESCAPE.
+
+![](images/INPUTS_ESCAPE_viewer_3.png)
+
 # **Projet de robotique**
 
 Solution logicielle pour automatiser la prise de mesures avec un analyseur à fluorescence X sur des carottes sédimentaires (Python).
@@ -21,6 +27,8 @@ Application R-Shiny pour l'analyse du trafic routier dans la Métropole Rouen No
 
 Il s'agit d'une première utilisation, des résultats non vérifiés, du pipeline développé par Sébastien Hörl (https://eqasim.org/).
 
+![](images/trafic_brest.gif)
+
 ![](images/animation.gif)
 
 # **Accidents corporels de la circulation en Guadeloupe (2015-2019)**
@@ -35,6 +43,10 @@ library(sf)
 load("data/DlR.RData")
 map
 ```
+
+
+# **Développement du site web de l'UMR IDEES (PHP - Kirby - Tailwind)**
+![](images/website_umr.png)
 
 # **Mont Fuji**
 ![](images/fuji.gif)
