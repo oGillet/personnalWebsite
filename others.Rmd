@@ -34,6 +34,9 @@ Il s'agit d'une première utilisation, des résultats non vérifiés, du pipelin
 # **Accidents corporels de la circulation en Guadeloupe (2015-2019)**
 ![](images/accidents.gif)
 
+# **Projet participatif : partagez vos expériences sportives sur La Soufrière**
+![](images/crowdsourcing.jpg)
+
 # **Les mobilités à Déville-les-Rouen**
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
@@ -48,5 +51,9 @@ map
 # **Développement du site web de l'UMR IDEES (PHP - Kirby - Tailwind)**
 ![](images/website_umr.png)
 
-# **Mont Fuji**
+# **modélisation 3D du Mont Fuji (Japon)**
 ![](images/fuji.gif)
+
+
+# **Objets connectés et mobilité urbaine : visualiser les déplacements des usagers de Twitter avec des graphes dynamiques**
+![](images/xterm.jpg)
